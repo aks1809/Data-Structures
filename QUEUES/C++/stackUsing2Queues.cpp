@@ -37,7 +37,7 @@ int main()
             cout << "Popped: " << element << "\n";
             break;
         default:
-            cout << "Wrong choice entered";
+            cout << "Wrong choice";
         }
     }
 }
